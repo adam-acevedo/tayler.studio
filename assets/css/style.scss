@@ -356,6 +356,11 @@ section {
   background-image: url('../tayler/thing12.jpg');
 }
 
+.crossfade > figure:nth-child(7) {
+  animation-delay: 36s;
+  background-image: url('../tayler/websitelogo.jpg');
+}
+
 @keyframes imageAnimation {
   0% {
     animation-timing-function: ease-in;
