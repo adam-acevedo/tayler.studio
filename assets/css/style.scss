@@ -310,7 +310,7 @@ section {
 }
 
 .crossfade > figure {
-  animation: imageAnimation 198s linear infinite 0s;
+  animation: imageAnimation 42s linear infinite 0s;
   backface-visibility: hidden;
   background-size: contain;
   background-position: center center;
@@ -360,7 +360,7 @@ section {
   animation-delay: 36s;
   background-image: url('../tayler/veggies1.png');
 }
-
+/*
 .crossfade > figure:nth-child(8) {
   animation-delay: 42s;
   background-image: url('../tayler/veggies2.png');
@@ -490,7 +490,7 @@ section {
   animation-delay: 192s;
   background-image: url('../tayler/earth_graphic.jpg');
 }
-
+*/
 @keyframes imageAnimation {
   0% {
     animation-timing-function: ease-in;
