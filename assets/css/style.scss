@@ -310,7 +310,7 @@ section {
 }
 
 .crossfade > figure {
-  animation: imageAnimation 42s linear infinite 0s;
+  animation: imageAnimation 78s linear infinite 0s;
   backface-visibility: hidden;
   background-size: contain;
   background-position: center center;
@@ -360,7 +360,7 @@ section {
   animation-delay: 36s;
   background-image: url('../tayler/veggies1.png');
 }
-/*
+
 .crossfade > figure:nth-child(8) {
   animation-delay: 42s;
   background-image: url('../tayler/veggies2.png');
@@ -390,7 +390,7 @@ section {
   animation-delay: 72s;
   background-image: url('../tayler/things_bday_invitation.jpg');
 }
-
+/*
 .crossfade > figure:nth-child(14) {
   animation-delay: 78s;
   background-image: url('../tayler/tobacco_back.jpg');
